@@ -1,4 +1,7 @@
 # -*- coding: utf-8 -*-
+
+#see https://yq.aliyun.com/articles/2631
+
 import json
 
 class RuleParser(object):
